@@ -1,0 +1,33 @@
+
+---Downloaded files---
+The import files for: Home v11 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wdpf55_wp6
+Data file = D:\WDPF_55_WDPF\PHP\htdocs\wdpf55_wp6/wp-content/themes/electro/assets/dummy-data/home-v11/dummy-data.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+electro_options -> D:\WDPF_55_WDPF\PHP\htdocs\wdpf55_wp6/wp-content/themes/electro/assets/dummy-data/home-v11/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---ocdi/after_import---
+

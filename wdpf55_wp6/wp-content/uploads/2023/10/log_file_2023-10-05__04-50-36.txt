@@ -1,0 +1,144 @@
+
+---Downloaded files---
+The import files for: Home v1 - v9 ( Template/WP Bakery Page Builder ) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wdpf55_wp6
+Data file = D:\WDPF_55_WDPF\PHP\htdocs\wdpf55_wp6/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/dummy-data.xml
+Widget file = D:\WDPF_55_WDPF\PHP\htdocs\wdpf55_wp6/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> D:\WDPF_55_WDPF\PHP\htdocs\wdpf55_wp6/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
